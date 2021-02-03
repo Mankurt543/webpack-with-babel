@@ -1,0 +1,25 @@
+{
+    "customers":[
+        {
+            "id":1,"name":"mehmet","age":"22","job":"student"
+        },
+        {
+            "id":1,"name":"hakan","age":"22","job":"student"
+        },
+        {
+            "id":1,"name":"mehmet","age":"22","job":"student"
+        },
+        {
+            "id":2,"name":"mehmet","age":"22","job":"student"
+        },
+        {
+            "id":3,"name":"mehmet","age":"22","job":"student"
+        },
+        {
+            "id":4,"name":"mehmet","age":"22","job":"student"
+        },
+        {
+            "id":5,"name":"mehmet","age":"22","job":"student"
+        }
+    ]
+}
